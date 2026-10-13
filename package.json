@@ -1,0 +1,9 @@
+{
+  "name": "gambit",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "Small resizable desktop chess window",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
